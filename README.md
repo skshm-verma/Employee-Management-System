@@ -18,6 +18,6 @@ Employee Management System using Spring Boot, Thymeleaf and MySQL database.
 ## Features
 
 - **Create:** Add a new employee to the system.
-- **Read:** Retrieve employee details based on ID or list all employees.
+- **Read:** List of all employees details are shown on the dashboard.
 - **Update:** Modify existing employee records.
 - **Delete:** Remove an employee from the system.

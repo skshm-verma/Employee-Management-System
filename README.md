@@ -2,12 +2,12 @@
 Employee Management System using Spring Boot, Thymeleaf and MySQL database.
 
 ## Tools and technologies used:
-Java 11
-Spring Boot
-Spring Data JPA (Hibernate)
-MySQL
-Thymeleaf
-IntelliJ
+-Java 11
+-Spring Boot
+-Spring Data JPA (Hibernate)
+-MySQL
+-Thymeleaf
+-IntelliJ
 
 ## How it looks
 
